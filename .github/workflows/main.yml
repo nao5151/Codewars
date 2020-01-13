@@ -10,6 +10,6 @@ jobs:
     - uses: actions/setup-node@v1
     - name: npm install, summary, and push
       run: |
-        npm ci
+        npm install
         npm run summary
         git push
