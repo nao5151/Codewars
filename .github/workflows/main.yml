@@ -15,5 +15,6 @@ jobs:
       run: |
         npm install
         npm run summary
-        git commit -m "update summary"
+        git add --all
+        git commit -m "update summary" --author='CI <16092751+nao5151@users.noreply.github.com>'
         git push origin master
