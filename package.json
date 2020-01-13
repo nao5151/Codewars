@@ -1,0 +1,14 @@
+{
+  "name": "codewars",
+  "scripts": {
+    "summary": "ts-node .github/index.ts"
+  },
+  "dependencies": {
+    "@actions/core": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.6",
+    "ts-node": "^8.6.1",
+    "typescript": "^3.7.4"
+  }
+}
