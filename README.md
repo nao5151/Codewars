@@ -6,4 +6,10 @@ Codewars https://www.codewars.com/
 ## SUMMARY
 
 <!-- KYU_SUMMARY -->
+|kyu|solved|
+|:-:|:-:|
+|5|5|
+|6|10|
+|7|15|
+|8|13|
 <!-- KYU_SUMMARY -->
