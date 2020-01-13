@@ -18,5 +18,7 @@ jobs:
         git remote set-url origin git@github.com:nao5151/Codewars.git
         git config user.email "16092751+nao5151@users.noreply.github.com" && git config user.name "CI"
         git add --all
-        git commit -m "update summary" --author "CI <16092751+nao5151@users.noreply.github.com>"
+        git commit -m "update summary"
         git push origin HEAD:master
+      with:
+        github_token: '${{ secrets.GITHUB_TOKEN }}'
