@@ -1,6 +1,9 @@
 name: CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   summary:
@@ -12,4 +15,5 @@ jobs:
       run: |
         npm install
         npm run summary
-        git push
+        git commit -m "update summary"
+        git push origin master
