@@ -11,6 +11,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - uses: actions/setup-node@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: npm install, summary, and push
       run: |
         npm install
@@ -20,5 +22,3 @@ jobs:
         git add --all
         git commit -m "update summary"
         git push origin HEAD:master
-      with:
-        github_token: '${{ secrets.GITHUB_TOKEN }}'
