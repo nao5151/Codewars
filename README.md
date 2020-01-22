@@ -9,7 +9,7 @@ Codewars https://www.codewars.com/
 |kyu|solved|
 |:-:|:-:|
 |5|6|
-|6|13|
+|6|14|
 |7|18|
 |8|14|
 <!-- KYU_SUMMARY -->
