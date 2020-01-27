@@ -8,6 +8,7 @@ Codewars https://www.codewars.com/
 <!-- KYU_SUMMARY -->
 |kyu|solved|
 |:-:|:-:|
+|4|1|
 |5|7|
 |6|17|
 |7|18|
