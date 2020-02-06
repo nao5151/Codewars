@@ -11,6 +11,6 @@ Codewars https://www.codewars.com/
 |4|1|
 |5|10|
 |6|17|
-|7|19|
+|7|20|
 |8|18|
 <!-- KYU_SUMMARY -->
