@@ -12,5 +12,5 @@ Codewars https://www.codewars.com/
 |5|10|
 |6|18|
 |7|20|
-|8|21|
+|8|22|
 <!-- KYU_SUMMARY -->
