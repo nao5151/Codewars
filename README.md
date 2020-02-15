@@ -10,7 +10,7 @@ Codewars https://www.codewars.com/
 |:-:|:-:|
 |4|1|
 |5|10|
-|6|20|
+|6|21|
 |7|20|
 |8|22|
 <!-- KYU_SUMMARY -->
